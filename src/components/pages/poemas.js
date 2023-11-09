@@ -167,6 +167,16 @@ function Poemas() {
                 A colheita é fruto das jornadas.<br/>
                 Prosperidade é rima no poema da existência,<br/>
                 É a dança suave da abundância em cadência.<br/>
+                Nas asas do tempo, a prosperidade voa,<br/><br/>
+
+                Segredos da vida em cada escolha.<br/>
+                No horizonte, sonhos se entrelaçam,<br/>
+                E a colheita da esperança se abraça.<br/><br/>
+
+                Sementes de esforço, no solo plantadas,<br/>
+                Florescem em campos de histórias bordadas.<br/>
+                Prosperidade, do presente ao amanhã,<br/>
+                Canta seu cântico, na sinfonia da manhã.<br/>
             </p>
         </div>
         </div>
