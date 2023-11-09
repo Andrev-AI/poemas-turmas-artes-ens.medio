@@ -8,7 +8,7 @@ function Poemas() {
     <div className='bg-[#0e0e0f] w-full h-full text-white'>
         <div className='pt-10 flex justify-center items-center flex-col w-full p-5'>
 
-        <div id="adriel" class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2">
+        <div id="adriel" class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2 sm:w-3/4">
         <div class="bg-lime-600 rounded-t-xl p-3 flex items-center justify-between h-12">
             <span class="text-2xl font-semibold">Adriel</span>
             <a href="#" class=" bg-white/50 hover:bg-white/80 text-white rounded-full p-1">
@@ -37,7 +37,7 @@ function Poemas() {
         </div>
         </div>
 
-        <div class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2 mt-20">
+        <div class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2 mt-20 sm:w-3/4">
         <div class="bg-orange-400 rounded-t-xl p-3 flex items-center justify-between h-12">
             <span class="text-2xl font-semibold">David</span>
             <a href="#" class=" bg-white/50 hover:bg-white/80 text-white rounded-full p-1">
@@ -72,7 +72,7 @@ function Poemas() {
         </div>
         </div>
 
-        <div class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2 mt-20">
+        <div class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2 mt-20 sm:w-3/4">
         <div class="bg-cyan-300/80 rounded-t-xl p-3 flex items-center justify-between h-12">
             <span class="text-2xl font-semibold">Enzo</span>
             <a href="#" class=" bg-white/50 hover:bg-white/80 text-white rounded-full p-1">
@@ -106,7 +106,7 @@ function Poemas() {
         </div>
         </div>
 
-        <div class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2 mt-20">
+        <div class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2 mt-20 sm:w-3/4">
         <div class="bg-pink-600 rounded-t-xl p-3 flex items-center justify-between h-12">
             <span class="text-2xl font-semibold">Rayca</span>
             <a href={r} download="rayca_poema_o_amor.pdf" class="bg-white/50 hover:bg-white/80 text-white rounded-full p-1">
@@ -145,9 +145,9 @@ function Poemas() {
         </div>
         </div>
         
-        <div id="andre" class="bg-[#2a2a2a] rounded-xl w-1/2 h-1/2 mt-20">
-        <div id="auraglow" class="rounded-t-xl p-3 flex items-center justify-between h-12">
-            <span class="text-2xl font-semibold">André</span>
+        <div class="bg-[#2a2a2a] rounded-xl w-3/5 h-1/2 mt-20 xl:w-3/4">
+        <div class="bg-blue-600 rounded-t-xl p-3 flex items-center justify-between h-12">
+            <span class="text-2xl font-semibold">Alefe</span>
             <a href="#" class=" bg-white/50 hover:bg-white/80 text-white rounded-full p-1">
             <svg width="30px" height="30px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M12 3V16M12 16L16 11.625M12 16L8 11.625" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
@@ -156,8 +156,18 @@ function Poemas() {
             </a>
         </div>
         <div class="p-4 text-white">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et vehicula elit.</p>
-            <p>Morbi congue massa a facilisis. Curabitur at bibendum neque. Nam euismod dolor sit amet justo condimentum, sit amet efficitur eros accumsan.</p>
+            <p>
+                <strong>Dança da Prosperidade</strong><br/> <br/>
+                Nas terras da vida, onde o sol resplandece,<br/>
+                Prosperidade dança, em cada prece.<br/>
+                Crescem sonhos como jardins em flor,<br/>
+                Colhendo frutos doces do labor.<br/><br/>
+
+                No campo da esperança, sementes plantadas,<br/>
+                A colheita é fruto das jornadas.<br/>
+                Prosperidade é rima no poema da existência,<br/>
+                É a dança suave da abundância em cadência.<br/>
+            </p>
         </div>
         </div>
 

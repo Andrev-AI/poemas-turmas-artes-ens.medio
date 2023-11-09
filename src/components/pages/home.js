@@ -41,6 +41,14 @@ function Home() {
             <p className='text-cyan-300/75'>z</p>
             <p className='text-cyan-300/75'>o</p>
         </div>
+        <div className='flex flex-col px-20'>
+            <p className='text-blue-600'>A</p>
+            <p className='text-blue-600/75'>l</p>
+            <p className='text-blue-600/75'>e</p>
+            <p className='text-blue-600/75'>f</p>
+            <p className='text-blue-600/75'>e</p>
+            <p className='text-red-600/75'>(extra)</p>
+        </div>
         </div>
         <div className='text-center pt-5'>
             <a href="/poemas" className='text-2xl rounded-xl p-3 text-white bg-violet-600 hover:bg-violet-800'>Ver Poemas</a>
@@ -88,6 +96,9 @@ function Home() {
                       </li>
                       <li>
                           <a href="https://www.instagram.com/_enzodepaula/" class="hover:underline">Enzo</a>
+                      </li>
+                      <li>
+                          <a href="https://www.instagram.com/alefe_gabriel_/" class="hover:underline">Alefe</a>
                       </li>
                   </ul>
               </div>
