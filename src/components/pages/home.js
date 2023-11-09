@@ -75,19 +75,19 @@ function Home() {
                   <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Redes Sociais</h2>
                   <ul class="text-gray-500 dark:text-gray-400 font-medium space-y-2">
                       <li>
-                          <a href="https://github.com/themesberg/flowbite" class="hover:underline ">André</a>
+                          <a href="https://www.instagram.com/moura_ndre/" class="hover:underline ">André</a>
                       </li>
                       <li>
-                          <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">David</a>
+                          <a href="https://www.instagram.com/kelvy_serafim/" class="hover:underline">David</a>
                       </li>
                       <li>
-                          <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Andriel</a>
+                          <a href="https://www.instagram.com/adriel._.lima1/" class="hover:underline">Andriel</a>
                       </li>
                       <li>
-                          <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Rayca</a>
+                          <a href="https://www.instagram.com/__rayca_/" class="hover:underline">Rayca</a>
                       </li>
                       <li>
-                          <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Enzo</a>
+                          <a href="https://www.instagram.com/_enzodepaula/" class="hover:underline">Enzo</a>
                       </li>
                   </ul>
               </div>

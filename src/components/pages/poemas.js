@@ -19,6 +19,7 @@ function Poemas() {
             </a>
         </div>
         <div class="p-4 text-white">
+            <strong>Cristal</strong><br/><br/>
         Numa noite escura, encontrei o meu cristal. <br/>
         Ela vinha brilhando com seus cabelos ao vento, sua roupa de flores e uma luz incrível, como um cristal. <br/> <br/>
 
@@ -117,6 +118,7 @@ function Poemas() {
         </div>
         <div class="p-4 text-white">
         <p>
+        <strong>Intensidade</strong><br/><br/>
         O amor, o amor é uma loucura, <br/>
         O amor pode machucar, mas ao mesmo tempo, o amor cura, <br/>
         Cura de maneiras incríveis, como nenhuma outra. <br/> <br/>
