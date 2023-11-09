@@ -47,8 +47,27 @@ function Poemas() {
             </a>
         </div>
         <div class="p-4 text-white">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et vehicula elit.</p>
-            <p>Morbi congue massa a facilisis. Curabitur at bibendum neque. Nam euismod dolor sit amet justo condimentum, sit amet efficitur eros accumsan.</p>
+            <p>
+            <strong>Academia</strong><br/>
+
+            No templo do vigor, eu me exercito<br/>
+            Com pesos, halteres, barras e anilhas<br/>
+            Buscando a perfeição do meu físico.<br/>
+            E a saúde que vem das maravilhas, são poucos que entendem a importância de uma anilha<br/><br/>
+
+            Da ciência que me dá o suplemento<br/>
+            Que aumenta a minha força e resistência independente do momento <br/>
+            O whey protein, que é o alimento<br/>
+            Das fibras musculares em carência por um período de tempo<br/><br/>
+
+            E a creatina, que é a energia<br/>
+            Que me faz superar os meus limites<br/>
+            E me leva a um estado de euforia e alegria de<br/>
+            Quando vejo os resultados tão bonitos<br/><br/>
+
+            Assim, eu me dedico à academia<br/>
+            Com arte, com rigor e com poesia<br/>
+            </p>
         </div>
         </div>
 
